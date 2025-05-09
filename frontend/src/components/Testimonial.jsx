@@ -40,7 +40,7 @@ const Testimonial = () => {
               <div className='flex items-center gap-[13px]'>
                 <img src={patientavatar} alt="Patient Avatar" />
                 <div>
-                  <h4 className='text-[18px] leading-[30px] font-semibold'>Antim Sarker</h4>
+                  <h4 className='text-[18px] leading-[30px] font-semibold'>Arman</h4>
                   <div className='flex items-center gap-[2px]'>
                     <HiStar className='text-[#FFC107]' />
                     <HiStar className='text-[#FFC107]' />
@@ -58,7 +58,7 @@ const Testimonial = () => {
               <div className='flex items-center gap-[13px]'>
                 <img src={patientavatar} alt="Patient Avatar" />
                 <div>
-                  <h4 className='text-[18px] leading-[30px] font-semibold'>Antim Sarker</h4>
+                  <h4 className='text-[18px] leading-[30px] font-semibold'>Babli</h4>
                   <div className='flex items-center gap-[2px]'>
                     <HiStar className='text-[#FFC107]' />
                     <HiStar className='text-[#FFC107]' />
@@ -76,7 +76,7 @@ const Testimonial = () => {
               <div className='flex items-center gap-[13px]'>
                 <img src={patientavatar} alt="Patient Avatar" />
                 <div>
-                  <h4 className='text-[18px] leading-[30px] font-semibold'>Antim Sarker</h4>
+                  <h4 className='text-[18px] leading-[30px] font-semibold'>Apon</h4>
                   <div className='flex items-center gap-[2px]'>
                     <HiStar className='text-[#FFC107]' />
                     <HiStar className='text-[#FFC107]' />
@@ -94,7 +94,7 @@ const Testimonial = () => {
               <div className='flex items-center gap-[13px]'>
                 <img src={patientavatar} alt="Patient Avatar" />
                 <div>
-                  <h4 className='text-[18px] leading-[30px] font-semibold'>Antim Sarker</h4>
+                  <h4 className='text-[18px] leading-[30px] font-semibold'>Antu</h4>
                   <div className='flex items-center gap-[2px]'>
                     <HiStar className='text-[#FFC107]' />
                     <HiStar className='text-[#FFC107]' />
