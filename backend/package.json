@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "antim sarker",
+  "author": "arman hossain",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
